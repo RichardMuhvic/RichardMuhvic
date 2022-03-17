@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <style>
   #stats{
     margin : 20px 0 20px 0;
+  }
 </style>
 
 <div id="stats">
