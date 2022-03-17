@@ -27,13 +27,8 @@ Here are some ideas to get you started:
 <img align="left" alt="html" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding:11px"/>
 <img align="left" alt="html" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding:11px"/>
                 
-<style>
-  #stats{
-    margin : 20px 0 20px 0;
-  }
-</style>
 
-<div id="stats">
+<div style="margin: 20px 0 20px 0">
   ![GHstats](https://github-readme-stats.vercel.app/api?username=RichardMuhvic&show_icons=true)
 </div>
 
