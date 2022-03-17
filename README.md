@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I play US Football with Vikings (Villeneuve d'Ascq), I do a lot of sport to destroy myself and repaire, why? because...
                 To waiting for work in Web Development, i'm a barman, so I loooove to make tasty cocktails and to serve good beers! Santé!
+                
+                
+                
+ ![GHstats](https://github-readme-stats.vercel.app/api?username=RichardMuhvic&show_icons=true)
+ ### Connect with me : ###
+ 
