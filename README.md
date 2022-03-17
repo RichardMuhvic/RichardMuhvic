@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ###
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on looking for a job to survive while watching ads in web development.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I play US Football with Vikings (Villeneuve d'Ascq), I do a lot of sport to destroy myself and repaire, why? because...
                 To waiting for work in Web Development, i'm a barman, so I loooove to make tasty cocktails and to serve good beers! Santé!
                 
+## Languages & Skills : ##
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+[<img align="left" alt="html" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="padding-right:11px"/>]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -29,5 +30,5 @@ Here are some ideas to get you started:
 
                 
  ![GHstats](https://github-readme-stats.vercel.app/api?username=RichardMuhvic&show_icons=true)
- ### Connect with me : ###
+ ## Connect with me : ##
  
