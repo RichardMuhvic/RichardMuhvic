@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <img align="left" alt="html" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding:11px"/>
                 
 
-<div style="margin: 20px 0 20px 0">
-  ![GHstats](https://github-readme-stats.vercel.app/api?username=RichardMuhvic&show_icons=true)
-</div>
 
-  ## Connect with me : ##
+![GHstats](https://github-readme-stats.vercel.app/api?username=RichardMuhvic&show_icons=true)
+
+
+## Connect with me : ##
   
  
