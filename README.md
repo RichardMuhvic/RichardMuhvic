@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 <img align="left" alt="html" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:11px"/>
 <img align="left" alt="html" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:11px"/>
 
-
+-->
+-->
+-->
                 
  ![GHstats](https://github-readme-stats.vercel.app/api?username=RichardMuhvic&show_icons=true)
  ## Connect with me : ##
