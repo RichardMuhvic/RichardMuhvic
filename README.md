@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  Mail - richardmuhvic@gmail.com
                        Instagram - @studiooorichard  
                        LinkedIn - https://www.linkedin.com/in/richardmuhvic/
-                       Phone - +33 6 95 41 93 37
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I play US Football with Vikings (Villeneuve d'Ascq), I do a lot of sport to destroy myself and repaire, why? because...
                 To waiting for work in Web Development, i'm a barman, so I loooove to make tasty cocktails and to serve good beers! Santé!
        
