@@ -2,8 +2,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on looking for a job to survive while watching ads in web development.
-- 🌱 I’m currently practice HTML, CSS, JS, SASS, Git and I going to learn React, then Angular.
-- 👯 I’m looking to collaborate on web projects, apps, many things...
+- 🌱 I’m currently practice HTML, CSS, JS, SASS, Git and I going to learn React.
+- 👯 I’m looking to collaborate on web projects, apps, many things... Actually i building Bar Smash https://barsmash.fr/
 - 🤔 I’m looking for help with Git to be really perfect about it, this is my weakness although I know the basics.
 - 💬 Ask me about help in the field of graphic design, visual animation, I have a long experience in this field that can be useful to you.
 - 📫 How to reach me:  Mail - richardmuhvic@gmail.com
